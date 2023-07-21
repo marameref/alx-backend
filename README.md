@@ -61,11 +61,11 @@ cd 0x02-Session_authentication
 > [:point_right: Go to project](0x02-Session_authentication)
 <!---->
 
-# :man: Author and Credits.
-This project was done by [SE. Moses Mwangi](https://github.com/MosesSoftEng). Feel free to get intouch with me;
+# :woman: Author and Credits.
+This project was done by [Eng. Amarachi C. Omereife](https://github.com/Marameref);
 
-:iphone: WhatsApp [+254115227963](https://wa.me/254115227963)
+:iphone: WhatsApp [+2348068590823](https://wa.me/2348068590823)
 
-:email: Email [moses.soft.eng@gmail.com](mailto:moses.soft.eng@gmail.com)
+:email: Email [amarachiomereife@gmail.com](mailto:amarachiomereife@gmail.com)
 
 :thumbsup: A lot of thanks to [ALX-Africa Software Engineering](https://www.alxafrica.com/) program for the project requirements.
